@@ -8,6 +8,8 @@ Standard Government can help in numerous ways. For policymakers and government o
 ### Related Links
 
 [Standard Industry](https://chat.openai.com/g/g-u8G59DH4i-standard-industry)
+<br>
+[Nepotism](https://github.com/sourceduty/Nepotism)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
